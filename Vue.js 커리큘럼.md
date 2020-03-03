@@ -56,3 +56,6 @@
 - (특집)수강생의 실무코드에 학습내용 적용
 테스팅 자동화를 위한 Jest & Vue.js 테스트 라이브러리 사용 방법
     > 구현한 SPA의 구조에 고급 Vue.js 패턴을 적용, 사용자 경험 중심으로 개선. Promise 기반 api 처리 방식을 async/await 비동기 패턴으로 개선.
+
+> [폴더구조 및 검색폼](https://moonsupport.tistory.com/2)
+    
